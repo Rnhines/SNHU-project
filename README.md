@@ -1,2 +1,5 @@
 # SNHU-project
-SNHU project
+I believe when creating a program, it's imperative that every user understands their wants and how the program should perform. I understand the user stories because I was able to break each part into smaller sections. I was guided to complete each task one by one. For the project I had to learn to add vacation pictures and descriptions, this allowed me to see that some changes to the program can have a major impact on how well the program is used.
+
+I think when working on a project it's always best to take your time working in smaller sections. This allows the workflow to be more controlled and organized. When I was working on my project some of the pictures were enlarged. I was able to correct any changes at that time. I notice by correct issues helps me to learn continue to grow.
+A good team member is one holds oneself accountable. I believe it consists of being a great communicator and leader working together as a team to accomplish goals, with being a good team player. You also have to be open and willing to listen to others' ideas as well. I have learned a lot from this course and it showed me that learning can help me to build relationships with the team and also help each other fix issues.
